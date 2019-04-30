@@ -1,0 +1,29 @@
+[
+    {
+        "name": "John Doe",
+        "age": 82,
+        "children": [
+            {
+                "name": "Myra Doe",
+                "age": 35,
+                "children": [
+                    {
+                        "name": "Sam Singh",
+                        "age": 1,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Sam Doe",
+                "age": 37,
+                "children": []
+            }
+        ]
+    },
+    {
+        "name": "Tony Stark",
+        "age": 12,
+        "children": []
+    }
+]
