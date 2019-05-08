@@ -22,5 +22,5 @@
 <img src="https://github.com/akhilrawat001/Nested_Json/tree/master/images/image3.png"
      style="float: left; margin-right: 10px;" />
 
-<img src="https://github.com/akhilrawat001/Nested_Json/tree/master/images/json3.png"
+<img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/json3.png"
      style="float: left; margin-right: 10px;" />
