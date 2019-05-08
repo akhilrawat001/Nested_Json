@@ -5,21 +5,21 @@
 ### If you are on windows please download it from the official website.
 ##### To run the file please navigate to the folder where the   ```app.py``` file is stored and yes the ```family.json``` file should be in the same folder as the ```app.py``` file.
 ##### Now type ```python3 app.py```
-<img src="https://github.com/akhilrawat001/Nested_Json/tree/master/images/image1.png"
+<img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/image1.png"
      style="float: left; margin-right: 10px;" />
 #### Now you have to give the input in the following fomat.
 ```name,age,parent name```
 #### If you want to start a new family tree then the parent name shoud be ```None```.
-<img src="https://github.com/akhilrawat001/Nested_Json/tree/master/images/json1.png"
+<img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/json1.png"
      style="float: left; margin-right: 10px;" />
      
-<img src="https://github.com/akhilrawat001/Nested_Json/tree/master/images/image2.png"
+<img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/image2.png"
      style="float: left; margin-right: 10px;" />
 
-<img src="https://github.com/akhilrawat001/Nested_Json/tree/master/images/json2.png"
+<img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/json2.png"
      style="float: left; margin-right: 10px;" />
 
-<img src="https://github.com/akhilrawat001/Nested_Json/tree/master/images/image3.png"
+<img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/image3.png"
      style="float: left; margin-right: 10px;" />
 
 <img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/json3.png"
