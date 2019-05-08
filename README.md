@@ -9,10 +9,10 @@
      style="float: left; margin-right: 10px;" />
 #### Now you have to give the input in the following fomat.
 ```name,age,parent name```
-#### If you want to start a new family tree then the parent name shoud be ```None```.
+#### Giving an input
 <img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/json1.png"
      style="float: left; margin-right: 10px;" />
-     
+#### Changes made in the json file    
 <img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/image2.png"
      style="float: left; margin-right: 10px;" />
 
@@ -23,4 +23,10 @@
      style="float: left; margin-right: 10px;" />
 
 <img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/json3.png"
+     style="float: left; margin-right: 10px;" />
+#### If you want to start a new family tree then the parent name shoud be ```None```.
+<img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/image4.png"
+     style="float: left; margin-right: 10px;" />
+#### New family tree added in the array.
+<img src="https://raw.githubusercontent.com/akhilrawat001/Nested_Json/master/images/json4.png"
      style="float: left; margin-right: 10px;" />
